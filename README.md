@@ -14,7 +14,7 @@ For more details see [here](https://github.com/mahsaghn/Simulate_Smart_Pot/blob/
 
 ## Application User Interface: 
 
-<img src="https://github.com/mahsaghn/Simulate_Smart_Pot/blob/main/statistics/safe.jpg" width=300>  <img src="https://github.com/mahsaghn/Simulate_Smart_Pot/blob/main/statistics/hot.jpg" width=300> <img src="https://github.com/mahsaghn/Simulate_Smart_Pot/blob/main/statistics/cold.jpg" width=300>
+<img src="https://github.com/mahsaghn/Simulate_Smart_Pot/blob/main/statistics/safe.jpg" width=250>  <img src="https://github.com/mahsaghn/Simulate_Smart_Pot/blob/main/statistics/hot.jpg" width=250> <img src="https://github.com/mahsaghn/Simulate_Smart_Pot/blob/main/statistics/cold.jpg" width=250>
 
 ## Technologies
 - Arduino
